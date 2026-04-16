@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "docs:dev": "themekit-js dev",
+    "docs:build": "themekit-js build",
+    "docs:preview": "themekit-js preview"
+  },
+  "dependencies": {
+    "markdown-it": "^14.1.0",
+    "themekit-js": "^1.2604.1612"
+  },
+  "note_themekit-js": "file:../themekit-js",
+  "devDependencies": {
+    "vite-plugin-remote-assets": "^2.1.0"
+  }
+}
